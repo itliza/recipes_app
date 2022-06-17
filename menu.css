@@ -1,0 +1,32 @@
+.item {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.item-one {
+    background-image: url(img/main/borsch.jpeg);   
+}
+.item-two {
+    background-image: url(img/main/cesar.avif);   
+}
+.item-three {
+    background-image: url(img/main/pasta.avif);   
+}
+.item-four {
+    background-image: url(img/main/ratatouille.avif);   
+}
+.item-five {
+    background-image: url(img/main/apple_cake.avif);   
+}
+.item-six {
+    background-image: url(img/main/salmon.avif);   
+}
+.item-seven {
+    background-image: url(img/main/mohito.avif);   
+}
+.item-eight {
+    background-image: url(img/main/pizza.avif);   
+}
+.item-nine {
+    background-image: url(img/main/ramen.avif);   
+}
